@@ -98,7 +98,7 @@ public class MQ2V3 {
 
 		
 		int[] leftLeaf = new int[5];
-		//int[] root = new int[5];		// ||==================||
+		//int[] root = new int[5];	// ||==================||
 		//int[] midLeaf = new int[5];	// ||Checker fields ||
 		//int[] rightLeaf = new int[5];	// ||==================||
 		
